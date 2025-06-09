@@ -1,4 +1,24 @@
-<p align="left">Hi, I'm Cristian</p>
+# 👋 Hi, I'm Cristian Omar Suclupe Llontop
+
+🎓 **Bachelor of Computer Systems Engineering**  
+📍 From: **Perú**  
+💻 Passionate Full Stack Developer | Backend Specialist  
+🌱 Currently learning: Advanced system architecture & cloud deployments  
+
+---
+
+## 🚀 About Me
+
+I'm a **full stack developer** with solid experience building modern and efficient web applications. I enjoy tackling complex problems and transforming ideas into software that adds real value.
+
+- 💼 Recently worked as a **Backend Developer** using **C#**, **.NET**, and **SQL Server**, building integrations between databases across companies.
+- 🎮 Previously interned in a **VR development team**, creating interactive simulators with **Unity** and **C#**.
+- 🔁 Used to working in **collaborative environments** and **agile methodologies**.
+- 🛠️ Currently working with **JavaScript**, **TypeScript**, **React**, **Node.js**, **Express**, and **SQL**.
+- 🧠 I’m constantly learning and improving in **backend architecture**, **clean code practices**, and **API documentation** (Swagger, Postman).
+
+---
+
 
 ###
 
@@ -8,7 +28,7 @@
 </div>
 
 ###
-
+## 🧰 Tech Stack
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo"  />
   <img width="12" />
